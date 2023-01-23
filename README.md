@@ -25,6 +25,7 @@
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+![Electron.JS](https://img.shields.io/badge/-Electron.JS-0D1117?style=for-the-badge&logo=electron&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f5943&height=120&section=footer"/>
 
