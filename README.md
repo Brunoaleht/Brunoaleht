@@ -26,9 +26,10 @@
 
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Nest.JS](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nest.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Electron.JS](https://img.shields.io/badge/-Electron.JS-0D1117?style=for-the-badge&logo=electron&labelColor=0D1117)&nbsp;
-  
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)>
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)>  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f5943&height=120&section=footer"/>
 
