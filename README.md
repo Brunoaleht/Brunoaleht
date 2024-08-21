@@ -15,10 +15,12 @@ Sou um desenvolvedor de software apaixonado por novas tecnologias e por aprender
 
 - **Frameworks e Bibliotecas:**
   - Frontend: Next.js, Vue.js, Angular.js
-  - Backend: Nest.js, Node.js, Express
+  - Backend: Nest.js, Node.js, Express, GoLang
 
 - **Banco de Dados:**
-  - SQL
+  - MariaDB  
+  - Postgress    
+  - MySQL
   - NoSQL (MongoDB)
 
 - **DevOps:**
