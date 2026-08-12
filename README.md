@@ -19,7 +19,7 @@
     </td>
     <td>
      <p align="center">
-       <img src="https://streak-stats.demolab.com?user=brunoaleht&theme=algolia"/>
+       <img width="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunoaleht&theme=algolia" />
      </p>
     </td>
   </tr>
