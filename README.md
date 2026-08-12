@@ -19,7 +19,10 @@
     </td>
     <td>
      <p align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaleht&count_private=true&title_color=ffffff&text_color=ffffff&hide_border=true&bg_color=0d1117&langs_count=7&layout=compact&theme=algolia" />
+       <img
+  height="150em"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunoaleht&layout=compact&theme=algolia"
+/>
      </p>
     </td>
   </tr>
