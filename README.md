@@ -19,7 +19,7 @@
     </td>
     <td>
      <p align="center">
-       <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunoaleht&layout=compact&theme=algolia"/>
+       <img src="https://streak-stats.demolab.com?user=brunoaleht&theme=algolia"/>
      </p>
     </td>
   </tr>
